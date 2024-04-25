@@ -21,5 +21,5 @@ This is the code of the IJCAI 2024 paper: "**Dynamically Anchored Prompting for 
         --data-path /local_datasets/ \
         --output_dir ./output 
 
-# Acknowledgement
+## Acknowledgement
 We refer to the code architecture from [l2p-pytorch](https://github.com/JH-LEE-KR/l2p-pytorch). Many thanks to the authors.
