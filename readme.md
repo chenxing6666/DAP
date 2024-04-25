@@ -5,11 +5,11 @@ This is the code of the IJCAI 2024 paper: "**Dynamically Anchored Prompting for 
 
 
 ## Dependencies
-pytorch==1.12.1
-torchvision==0.13.1
-timm==0.6.7
-pillow==9.2.0
-matplotlib==3.5.3
+    pytorch==1.12.1
+    torchvision==0.13.1
+    timm==0.6.7
+    pillow==9.2.0
+    matplotlib==3.5.3
 
 ## Usage
     python -m torch.distributed.launch \
